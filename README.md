@@ -24,20 +24,20 @@ and then using my skills and experience to bring their vision to life.
 
 **Skills**
 
-JavaScript
-React
-Node.js
-Express
-MongoDB
-HTML/CSS
-TypeScript
-Ajax
-Redux
-Tailwind css
-Three js
-WordPress
-Json
-Jquery       and more.....
+JavaScript,
+React,
+Node.js,
+Express,
+MongoDB,
+HTML/CSS,
+TypeScript,
+Ajax,
+Redux,
+Tailwind css,
+Three js,
+WordPress,
+Json,
+Jquery,      and more.....
 
 
 
