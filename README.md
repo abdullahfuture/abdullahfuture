@@ -1,4 +1,4 @@
-# *Abdullah - Web Developer**
+# Abdullah - Web Developer
 
 - 👋 Hi there! My name is Abdullah and I'm a skilled web developer with 
 - expertise in JavaScript and the MERN stack.
@@ -13,7 +13,7 @@ Don't hesitate to reach out to me for your web development needs.
 
 
 
-# **About Me*
+## **About Me*
 
 I have a passion for creating clean, functional, and user-friendly websites that provide a great user experience.
 I enjoy working collaboratively with clients and stakeholders to understand their needs and goals,
@@ -22,7 +22,7 @@ and then using my skills and experience to bring their vision to life.
 
 
 
-# **Skills*
+## **Skills*
 
 JavaScript,
 React,
@@ -42,7 +42,7 @@ Jquery,      and more.....
 
 
 
-# *Projects**
+## **Projects*
 
 Here are some examples of projects I've worked on:
 project1- A responsive e-commerce website built with React and Redux.
@@ -52,7 +52,7 @@ project3 - A personal portfolio website built with HTML, CSS, and JavaScript.
 
 
 
- # **Contact Me*
+ ## **Contact Me*
 
 If you're interested in working together or have any questions,
 feel free to reach out to me at [abdullahresponder@gmail.com] or connect with me on [https://www.linkedin.com/in/abdullah-future-b52323280/] (linkedin)
