@@ -55,7 +55,7 @@ project3 - A personal portfolio website built with HTML, CSS, and JavaScript.
  ## **Contact Me*
 
 If you're interested in working together or have any questions,
-feel free to reach out to me at [abdullahresponder@gmail.com] or connect with me on [https://www.linkedin.com/in/abdullah-future-b52323280/](linkedin)
+feel free to reach out to me at [abdullahresponder@gmail.com] or connect with me on [linkedin]( https://www.linkedin.com/in/abdullah-future-b52323280/)
 
 Thanks for stopping by!
 
