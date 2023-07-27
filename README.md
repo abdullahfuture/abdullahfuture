@@ -30,6 +30,7 @@ Node.js,
 Express,
 MongoDB,
 HTML/CSS,
+![image](https://github.com/abdullahfuture/abdullahfuture/assets/136898529/1441bdd6-0a54-4637-b6f8-a48c68f88177)
 TypeScript,
 Ajax,
 Redux,
