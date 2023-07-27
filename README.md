@@ -58,27 +58,3 @@ If you're interested in working together or have any questions,
 feel free to reach out to me at [abdullahresponder@gmail.com] or connect with me on [linkedin]( https://www.linkedin.com/in/abdullah-future-b52323280/)
 
 Thanks for stopping by!
-
-
-you are the best writer , write the best readme on github for the following man :
- My name is Abdullah and I'm a skilled web developer with 
-- expertise in JavaScript and the MERN stack.
-Abdullah has experience building professional websites and is well-versed
-in most web technologies. If you're looking for a reliable and talented 
-web developer, I'm the one to turn to. My skills in JavaScript 
-and the MERN stack make me an asset to any team or project. With my 
-expertise and experience, I'm sure to deliver top-notch results
-that exceed your expectations.
-Don't hesitate to reach out to me for your web development needs.
-
-
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-abdullahfuture/abdullahfuture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
