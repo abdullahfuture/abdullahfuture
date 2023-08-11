@@ -1,43 +1,37 @@
 # Abdullah - Web Developer
 
-- 👋 Hi there! My name is Abdullah and I'm a skilled web developer with 
-- expertise in JavaScript and the MERN stack.
-I have experience building professional websites and is well-versed
-in most web technologies. If you're looking for a reliable and talented 
-web developer, I'm the one to turn to. My skills in JavaScript 
-and the MERN stack make me an asset to any team or project. With my 
-expertise and experience, I'm sure to deliver top-notch results
-that exceed your expectations.
-Don't hesitate to reach out to me for your web development needs. 
+- 👋 Hi there! I'm Abdullah, a highly skilled and experienced web developer with a passion for creating visually stunning websites that deliver exceptional user experiences. With expertise in various 3D tools like Blender and UI/UX design platforms such as Figma, I possess the unique ability to bring your vision to life.
 
 
 
 
 ## **About Me*
 
-I have a passion for creating clean, functional, and user-friendly websites that provide a great user experience.
-I enjoy working collaboratively with clients and stakeholders to understand their needs and goals,
-and then using my skills and experience to bring their vision to life.
+I am fueled by an unwavering passion for crafting pristine, functional, and user-friendly websites that transcend expectations, offering an unparalleled user experience. The collaborative process holds a special place in my heart as I thrive on engaging with clients and stakeholders, delving deep into their aspirations and objectives. With my extensive skills and seasoned expertise, I transform their visions into tangible realities, breathing life into their dreams.
 
 
 
 
 ## **Skills*
 
-JavaScript,
-React,
-Node.js,
-Express,
-MongoDB,
-HTML/CSS,
-TypeScript,
-Ajax,
-Redux,
-Tailwind css,
-Three js,
-WordPress,
-Json,
-Jquery,      and more.....
+- HTML/CSS,                            
+- JavaScript, <br />
+- TypeScript,                            
+- React,  <br />
+- Tailwind css,                            
+- Redux,  <br />
+- Next.js                            
+- Three.js,  <br />
+- Node.js,                             
+- Express,  <br />
+- MongoDB,                            
+- Ajax,  <br />
+- WordPress,
+- Json,   <br />
+- Jquery,                              
+- Figma,   <br />
+- Blender,                            
+    and more.....
 
 
 
@@ -45,9 +39,9 @@ Jquery,      and more.....
 ## **Projects*
 
 Here are some examples of projects I've worked on:
-project1- A responsive e-commerce website built with React and Redux.
-project2 - A social media platform built with Node.js, Express, and MongoDB.
-project3 - A personal portfolio website built with HTML, CSS, and JavaScript.
+project1- A responsive e-commerce website built with React and Redux. <br />
+project2 - A social media platform built with Node.js, Express, and MongoDB. <br />
+project3 - A personal portfolio website built with HTML, CSS, and JavaScript. <br />
 
 
 
