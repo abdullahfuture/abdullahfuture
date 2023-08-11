@@ -31,7 +31,7 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 - Jquery,                              
 - Figma,   <br />
 - Blender,                            
-  **  and more.....  **
+   and more.....  
 
 
 
