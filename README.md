@@ -38,7 +38,7 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 
 ## **Projects*
 
-Here are some examples of projects I've worked on:
+Here are some examples of projects I've worked on: <br />
 project1- A responsive e-commerce website built with React and Redux. <br />
 project2 - A social media platform built with Node.js, Express, and MongoDB. <br />
 project3 - A personal portfolio website built with HTML, CSS, and JavaScript. <br />
