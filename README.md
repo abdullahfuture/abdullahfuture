@@ -14,9 +14,9 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 
 ## **Skills*
 
-- HTML/CSS,                            
+- HTML/CSS,                                 
 - JavaScript, <br />
-- TypeScript,                            
+- TypeScript,                             
 - React,  <br />
 - Tailwind css,                            
 - Redux,  <br />
@@ -31,7 +31,7 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 - Jquery,                              
 - Figma,   <br />
 - Blender,                            
-    and more.....
+  **  and more.....  **
 
 
 
