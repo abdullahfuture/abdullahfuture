@@ -14,23 +14,25 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 
 ## **Skills*
 
-- HTML/CSS,                                 
-- JavaScript, <br />
-- TypeScript,                             
-- React,  <br />
-- Tailwind css,                            
-- Redux,  <br />
+-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="10" height="10"/>HTML/CSS,                                 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="10" height="10"/>JavaScript, <br />
+-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="10" height="10"/>TypeScript,                             
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="10" height="10"/React,  <br />
+- <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="10" height="10"/> Tailwind css,                            
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="10" height="10"/>Redux,  <br />
 - Next.js                            
 - Three.js,  <br />
-- Node.js,                             
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="10" height="10"/>Node.js,                             
 - Express,  <br />
-- MongoDB,                            
+-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="10" height="10"/>MongoDB,                            
 - Ajax,  <br />
 - WordPress,
 - Json,   <br />
+- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="10" height="10"/>Git,
+-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="10" height="10"/>MySQL,
 - Jquery,                              
-- Figma,   <br />
-- Blender,                            
+-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="10" height="10"/> Figma,   <br />
+- <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="10" height="10"/>Blender,                            
    and more.....  
 
 
