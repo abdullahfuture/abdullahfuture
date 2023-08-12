@@ -9,58 +9,57 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 ## Skills
 
 - HTML/CSS
-  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg){:height="30px" width="30px"} ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/30px-CSS3_logo_and_wordmark.svg.png){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg){:height="30px" width="30px"} ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/30px-CSS3_logo_and_wordmark.svg.png) 
 
 - JavaScript
-  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg){:height="30px" width="30px"}
+  {:height="30px" width="30px"} ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 
 - TypeScript
-  ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg){:height="30px" width="30px"}
+{:height="30px" width="30px"}  ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) 
 
 - React
-  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) 
 
 - Tailwind CSS
-  ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) 
 
 - Next.js
-  ![Next.js](https://dinhanhthi.com/img/header/nextjs.png){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![Next.js](https://dinhanhthi.com/img/header/nextjs.png) 
 
 - Three.js
-  ![Three.js](https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![Three.js](https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png) 
 
 - Node.js
-  ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg){:height="30px" width="30px"}
+{:height="30px" width="30px"}  ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) 
 
 - Express
-  ![Express](https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![Express](https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67) 
 
 - MongoDB
-  ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) 
 
 - AJAX
-  ![AJAX](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/30px-AJAX_logo_by_gengns.svg.png?20221015001337){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![AJAX](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/30px-AJAX_logo_by_gengns.svg.png?20221015001337)
 
 - WordPress
-  ![WordPress](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/30px-WordPress_blue_logo.svg.png){:height="30px" width="30px"}
-
+  {:height="30px" width="30px"} ![WordPress](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/30px-WordPress_blue_logo.svg.png) 
 - JSON
-  ![JSON](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/40px-JSON_vector_logo.svg.png){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![JSON](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/40px-JSON_vector_logo.svg.png) 
 
 - Git
-  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg){:height="30px" width="30px"}
+  {:height="30px" width="30px"}![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) 
 
 - MySQL
-  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) 
 
 - jQuery
-  ![jQuery](https://technokrats.in/wp-content/uploads/2020/11/Content1-7.png){:height="30px" width="30px"}
-
+  {:height="30px" width="30px"} ![jQuery](https://technokrats.in/wp-content/uploads/2020/11/Content1-7.png) 
+  
 - Figma
-  ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg){:height="30px" width="30px"}
+{:height="30px" width="30px"}  ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) 
 
 -Blender
-  ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg){:height="30px" width="30px"}
+ {:height="30px" width="30px"} ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg) 
 
 ### and more...
 
