@@ -9,57 +9,58 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 ## Skills
 
 - HTML/CSS
- {:height="30px" width="30px"} ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg){:height="30px" width="30px"} ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/30px-CSS3_logo_and_wordmark.svg.png) 
+  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg | width=30)
 
 - JavaScript
-  {:height="30px" width="30px"} ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=30)
 
 - TypeScript
-{:height="30px" width="30px"}  ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) 
+  ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg | width=30)
 
 - React
- {:height="30px" width="30px"} ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) 
+  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg | width=30)
 
 - Tailwind CSS
- {:height="30px" width="30px"} ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg) 
+  ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg | width=30)
 
 - Next.js
- {:height="30px" width="30px"} ![Next.js](https://dinhanhthi.com/img/header/nextjs.png) 
+  ![Next.js](https://dinhanhthi.com/img/header/nextjs.png | width=30)
 
 - Three.js
- {:height="30px" width="30px"} ![Three.js](https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png) 
+  ![Three.js](https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png | width=30)
 
 - Node.js
-{:height="30px" width="30px"}  ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) 
+  ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg | width=30)
 
 - Express
- {:height="30px" width="30px"} ![Express](https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67) 
+  ![Express](https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67 | width=30)
 
 - MongoDB
- {:height="30px" width="30px"} ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) 
+  ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg | width=30)
 
 - AJAX
- {:height="30px" width="30px"} ![AJAX](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/30px-AJAX_logo_by_gengns.svg.png?20221015001337)
+  ![AJAX](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/30px-AJAX_logo_by_gengns.svg.png | width=30)
 
 - WordPress
-  {:height="30px" width="30px"} ![WordPress](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/30px-WordPress_blue_logo.svg.png) 
+  ![WordPress](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/30px-WordPress_blue_logo.svg.png | width=30)
+
 - JSON
- {:height="30px" width="30px"} ![JSON](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/40px-JSON_vector_logo.svg.png) 
+  ![JSON](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/40px-JSON_vector_logo.svg.png | width=30)
 
 - Git
-  {:height="30px" width="30px"}![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) 
+  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg | width=30)
 
 - MySQL
- {:height="30px" width="30px"} ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) 
+  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg | width=30)
 
 - jQuery
-  {:height="30px" width="30px"} ![jQuery](https://technokrats.in/wp-content/uploads/2020/11/Content1-7.png) 
-  
-- Figma
-{:height="30px" width="30px"}  ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) 
+  ![jQuery](https://technokrats.in/wp-content/uploads/2020/11/Content1-7.png | width=30)
 
--Blender
- {:height="30px" width="30px"} ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg) 
+- Figma
+  ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg | width=30)
+
+- Blender
+  ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg | width=30)
 
 ### and more...
 
