@@ -1,4 +1,5 @@
-  ![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif){:height="70px"}
+  ![MasterHead](<img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" 
+ height="90" />) 
 
 # Abdullah - Web Developer
 
