@@ -13,8 +13,8 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 
 
 ## **Skills* <p> </p> align="left" align="right"
-<p align="left" >
--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>HTML/<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="html5" width="20" height="20"/>CSS,         </p>  
+- <p align="left" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>HTML/<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="html5" width="20" height="20"/>CSS,         </p>  
 <p align="right" > 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>JavaScript, </p>
 <p align="left"  >
