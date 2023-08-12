@@ -19,11 +19,10 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>TypeScript,                             
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> React,  <br />
 - <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/> Tailwind css,                            
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/>Redux,  <br />
-- Next.js                            
-- Three.js,  <br />
+- <img src="https://www.redbubble.com/es/i/pegatina/Nextjs-de-cosito/62253041.EJUG5" alt="Next.js" width="20" height="20"/>Next.js                            
+- <img src="https://discourse.threejs.org/t/three-js-svg-logo/21835" alt="Next.js" width="20" height="20"/>Three.js,  <br />
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>Node.js,                             
-- Express,  <br />
+- <img src="https://www.npmjs.com/package/express" alt="nodejs" width="20" height="20"/>Express,  <br />
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>MongoDB,                            
 - Ajax,  <br />
 - WordPress,
