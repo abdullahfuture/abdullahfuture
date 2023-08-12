@@ -15,37 +15,37 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 ## **Skills* <p> </p> align="left" align="right"
 - <p align="left" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>HTML/<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="html5" width="20" height="20"/>CSS,         </p> 
- -  <p align="right" > 
+   - <p align="right" > 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>JavaScript, </p>
- -   <p align="left"  >
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>TypeScript,    </p>           -      <p  align="right" >         
+ - <p align="left"  >
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>TypeScript,    </p>           - <p  align="right" >         
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> React,   </p>  
- -   <p  align="left" > 
+ - <p  align="left" > 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/> Tailwind css,   </p>   
 - <p align="right" > 
 <img src="https://dinhanhthi.com/img/header/nextjs.png" alt="Next.js" width="20" height="20"/>Next.js   </p> 
-  -   <p align="left"  > 
+  - <p align="left"  > 
 
 <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" alt="Three.js" width="20" height="20"/>Three.js, </p> 
- -  <p  align="right" > 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>Node.js, </p>                   -   <p  align="left" >          
+ - <p  align="right" > 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>Node.js, </p>                   - <p  align="left" >          
 <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="nodejs" width="20" height="20"/>Express, </p>  
-  -  <p  align="right" >    
+  - <p  align="right" >    
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>MongoDB,  </p>               -     <p  align="left" >            
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/398px-AJAX_logo_by_gengns.svg.png?20221015001337" alt="ajax" width="20" height="20"/>Ajax, </p> 
-      -   <p  align="right" > 
+      - <p  align="right" > 
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/150px-WordPress_blue_logo.svg.png" alt="ajax" width="20" height="20"/>WordPress, </p>
- -  <p  align="left" > 
+ - <p  align="left" > 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/160px-JSON_vector_logo.svg.png" alt="ajax" width="20" height="20"/>Json,   </p>  
- -  <p  align="right" >
+ - <p  align="right" >
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/>Git, </p> 
- -  <p  align="left" >
+ - <p  align="left" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>MySQL, </p> 
- -  <p  align="right" >
+ - <p  align="right" >
    <img src="https://technokrats.in/wp-content/uploads/2020/11/Content1-7.png" alt="mysql" width="20" height="20"/>Jquery,              </p>                  
- -  <p  align="left" >
+ - <p  align="left" >
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> Figma,   </p> 
- -  <p  align="right" >
+ - <p  align="right" >
    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="20" height="20"/>Blender,     </p>                         
   ### and more.....  
 
