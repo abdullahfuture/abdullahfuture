@@ -9,58 +9,58 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 ## Skills
 
 - HTML/CSS
-  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg | width=30)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30">
 
 - JavaScript
-  ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg | width=30)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30">
 
 - TypeScript
-  ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg | width=30)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
 
 - React
-  ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg | width=30)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30">
 
 - Tailwind CSS
-  ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg | width=30)
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30">
 
 - Next.js
-  ![Next.js](https://dinhanhthi.com/img/header/nextjs.png | width=30)
+  <img src="https://dinhanhthi.com/img/header/nextjs.png" alt="Next.js" width="30">
 
 - Three.js
-  ![Three.js](https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png | width=30)
+  <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" alt="Three.js" width="30">
 
 - Node.js
-  ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg | width=30)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30">
 
 - Express
-  ![Express](https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67 | width=30)
+  <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express" width="30">
 
 - MongoDB
-  ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg | width=30)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30">
 
 - AJAX
-  ![AJAX](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/30px-AJAX_logo_by_gengns.svg.png | width=30)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/30px-AJAX_logo_by_gengns.svg.png" alt="AJAX" width="30">
 
 - WordPress
-  ![WordPress](https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/30px-WordPress_blue_logo.svg.png | width=30)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/30px-WordPress_blue_logo.svg.png" alt="WordPress" width="30">
 
 - JSON
-  ![JSON](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/40px-JSON_vector_logo.svg.png | width=30)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/40px-JSON_vector_logo.svg.png" alt="JSON" width="30">
 
 - Git
-  ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg | width=30)
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30">
 
 - MySQL
-  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg | width=30)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30">
 
 - jQuery
-  ![jQuery](https://technokrats.in/wp-content/uploads/2020/11/Content1-7.png | width=30)
+  <img src="https://technokrats.in/wp-content/uploads/2020/11/Content1-7.png" alt="jQuery" width="30">
 
 - Figma
-  ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg | width=30)
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30">
 
 - Blender
-  ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg | width=30)
+  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="30">
 
 ### and more...
 
@@ -69,6 +69,7 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 Here are some examples of projects I've worked on:
 
 - A responsive e-commerce website built with React and Redux.
+- A social media platformI apologize for the confusion.
 - A social media platform built with Node.js, Express, and MongoDB.
 - A personal portfolio website built with HTML, CSS, and JavaScript.
 
