@@ -1,3 +1,5 @@
+  ![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif){:height="70px"}
+
 # Abdullah - Web Developer
 
 👋 Hi there! I'm Abdullah, a highly skilled and experienced web developer with a passion for creating visually stunning websites that deliver exceptional user experiences. With expertise in various 3D tools like Blender and UI/UX design platforms such as Figma, I possess the unique ability to bring your vision to life.
@@ -9,7 +11,7 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 ## Skills
 
 - HTML/CSS
-  ![HTML5](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30">)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30"> 
 
 - JavaScript
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30">
