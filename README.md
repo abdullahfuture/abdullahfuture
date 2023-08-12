@@ -22,7 +22,7 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 - <img src="https://www.redbubble.com/es/i/pegatina/Nextjs-de-cosito/62253041.EJUG5" alt="Next.js" width="20" height="20"/>Next.js                            
 - <img src="https://discourse.threejs.org/t/three-js-svg-logo/21835" alt="Next.js" width="20" height="20"/>Three.js,  <br />
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>Node.js,                             
-- <img src="https://www.npmjs.com/package/express" alt="nodejs" width="20" height="20"/>Express,  <br />
+- <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="nodejs" width="20" height="20"/>Express,  <br />
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>MongoDB,                            
 - Ajax,  <br />
 - WordPress,
