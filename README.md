@@ -1,5 +1,6 @@
-  ![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif 
- ) 
+ 
+  <img src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif" alt="coding"  align="center" height="200" style="border-radius: 10px;">
+
 
 # Abdullah - Web Developer
 
