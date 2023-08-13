@@ -28,6 +28,8 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 - React
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30">
 
+ - Redux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
+
 - Tailwind CSS
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30">
 
@@ -72,7 +74,7 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 - Blender
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="30">
 
-### and more...
+### and more.<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="C++" width="10"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="8" height="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="8" height="8"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="8" height="8"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="8" height="8"/>
 
 ## Projects
 
