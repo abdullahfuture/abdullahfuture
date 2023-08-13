@@ -17,7 +17,7 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 - JavaScript
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30">
 
-<img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1697068800&v=beta&t=9LbQStB_PxTriJlBG4CiV3u2pUEKS4z4ey1lNq3Gjpc" alt="coding" width="350" height="600" align="right" style="border-radius: 10px;">
+<img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1697068800&v=beta&t=9LbQStB_PxTriJlBG4CiV3u2pUEKS4z4ey1lNq3Gjpc" alt="coding" width="350" height="600" align="right" style="border-radius: 20px;">
 
 - TypeScript
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
