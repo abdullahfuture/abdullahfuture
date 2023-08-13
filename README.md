@@ -38,7 +38,7 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 - Express
   <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express" width="30">
 
-  <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1697068800&v=beta&t=9LbQStB_PxTriJlBG4CiV3u2pUEKS4z4ey1lNq3Gjpc" alt='coding' width="200" height="600" />
+  <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1697068800&v=beta&t=9LbQStB_PxTriJlBG4CiV3u2pUEKS4z4ey1lNq3Gjpc" alt='coding' width="200" height="600" align="right" />
 
 - MongoDB
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30">
