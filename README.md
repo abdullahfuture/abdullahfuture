@@ -87,6 +87,6 @@ Here are some examples of projects I've worked on:
 
 ## Conect Me
 
-If you're interested in working together or have any questions, feel free to reach out to me at [abdullahresponder@gmail.com](mailto:abdullahresponder@gmail.com) or connect with me on <a href="https://linkedin.com/in/abdullahfuture" target="blank">LinkedIn ↗<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahfuture" height="30" width="40" /></a>, or <a href="https://twitter.com/@abdullahfutur1e" target="blank">Twitter ↗<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abdullahfutur1e" height="30" width="30" /></a> .
+If you're interested in working together or have any questions, feel free to reach out to me at [abdullahresponder@gmail.com](mailto:abdullahresponder@gmail.com) or connect with me on <a href="https://linkedin.com/in/abdullahfuture" target="blank">LinkedIn ↗<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahfuture" height="20" width="20" /></a>, or <a href="https://twitter.com/@abdullahfutur1e" target="blank">Twitter ↗<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abdullahfutur1e" height="20" width="20" /></a> .
 
 Thanks for stopping by!
