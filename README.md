@@ -12,66 +12,64 @@ I am fueled by an unwavering passion for crafting pristine, functional, and user
 
 ## Skills
 
-- HTML/CSS
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30">/ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
 
-- JavaScript
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30">
 
  
   <img src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1697068800&v=beta&t=9LbQStB_PxTriJlBG4CiV3u2pUEKS4z4ey1lNq3Gjpc" alt="coding"  align="right" width="350" height="600" style="border-radius: 10px;">
  
 
-- TypeScript
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30">
 
-- React
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30">
 
- - Redux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/>
 
-- Tailwind CSS
+
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30">
 
-- Next.js
+
   <img src="https://dinhanhthi.com/img/header/nextjs.png" alt="Next.js" width="30">
 
-- Three.js
+
   <img src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_496x500.png" alt="Three.js" width="30">
 
-- Node.js
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30">
 
-- Express
+
   <img src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express" width="30">
 
 
 
-- MongoDB
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30">
 
-- AJAX
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/30px-AJAX_logo_by_gengns.svg.png" alt="AJAX" width="30">
 
-- WordPress
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/30px-WordPress_blue_logo.svg.png" alt="WordPress" width="30">
 
-- JSON
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/40px-JSON_vector_logo.svg.png" alt="JSON" width="30">
 
-- Git
+
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30">
 
-- MySQL
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30">
 
-- jQuery
+
   <img src="https://technokrats.in/wp-content/uploads/2020/11/Content1-7.png" alt="jQuery" width="30">
 
-- Figma
+
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30">
 
-- Blender
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="30">
 
 ### and more.<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="C++" width="10"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="8" height="8"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="8" height="8"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="8" height="8"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="8" height="8"/>
