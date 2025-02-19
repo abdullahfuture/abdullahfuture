@@ -1,1 +1,2 @@
-# Hi There 😎 -> Let's make something unique from your data
+# Hi There 😎👋
+### Let's make something unique from your data 📉
